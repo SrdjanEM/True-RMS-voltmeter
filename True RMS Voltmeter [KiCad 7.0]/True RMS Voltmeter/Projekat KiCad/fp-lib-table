@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "Footprint")(type "KiCad")(uri "C:/Users/srdja/OneDrive/Radna površina/PRIUMS/Footprint")(options "")(descr ""))
-  (lib (name "PRIUMS_FTPRNT")(type "KiCad")(uri "D:/PRIUMS/PRIUMS_FTPRNT.pretty")(options "")(descr ""))
-  (lib (name "priums_lib")(type "KiCad")(uri "${KIPRJMOD}/priums_lib.pretty")(options "")(descr ""))
-)
