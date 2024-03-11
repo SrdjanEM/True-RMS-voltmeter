@@ -17,4 +17,8 @@ This project presents a comprehensive solution for measuring and displaying AC v
 - **FFC Connectors:** Provides a flexible and secure connection between the LED displays and the main PCB.
 - **PCB Materials:** Utilizes FR4 for the dielectric layer and ENIG (Electroless Nickel Immersion Gold) for the copper surface finish for enhanced durability and solderability.
 
-![Screenshot](FullSchematic.png)
+## Full schematic 
+![Schematic](FullSchematic.png "Better quality PDF in the repo")
+## PCB
+![PCB](PCBnocomponents.png "PCB without components")
+![PCB](PCBwithcomponents.png "PCB with components")
