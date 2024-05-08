@@ -18,7 +18,7 @@ This project presents a comprehensive solution for measuring and displaying AC v
 - **PCB Materials:** Utilizes FR4 for the dielectric layer and ENIG (Electroless Nickel Immersion Gold) for the copper surface finish for enhanced durability and solderability.
 
 ## Full schematic 
-![Schematic](FullSchematic.png "Better quality PDF in the repo")
+![Schematic](images/FullSchematic.png "Better quality PDF in the repo")
 ## PCB
-![PCB](PCBnocomponents.png "PCB without components")
-![PCB](PCBwithcomponents.png "PCB with components")
+![PCB](images/PCBnocomponents.png "PCB without components")
+![PCB](images/PCBwithcomponents.png "PCB with components")
